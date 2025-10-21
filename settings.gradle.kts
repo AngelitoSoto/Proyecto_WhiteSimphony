@@ -19,6 +19,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "WhiteSymphoniMobil"
+=======
+rootProject.name = "Proyecto-Musica"
+>>>>>>> 90aff6478ca9c687abf947b7ce272dd117ec4b1b
 include(":app")
  
